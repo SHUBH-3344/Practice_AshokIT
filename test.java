@@ -12,3 +12,6 @@ djndhd
 
 //bug 4:
 applied
+
+//bug 6"
+complete
