@@ -13,11 +13,11 @@ djndhd
 //bug 4:
 applied
 
-<<<<<<< Updated upstream
+
 //bug 6"
 complete
-=======
+
 
 // bug 5:
 incompleteg
->>>>>>> Stashed changes
+
