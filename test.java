@@ -8,3 +8,7 @@ pending logic
 
 //bug 3:
 djndhd
+
+
+//bug 4:
+applied
